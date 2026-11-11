@@ -1,1 +1,237 @@
-X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+{
+  "version": "1.0",
+  "SML 1 Strategic Sovereignty": {
+    "dimension_title": "Strategic Sovereignty",
+    "dimension_desc": "Testdimension 1 des ClamAV-Testmanifests.",
+    "objectives": [
+      {
+        "id": "SML 1.CO 1",
+        "title": "Objective 1 (SML 1.CO 1) - Testziel des ClamAV-Testmanifests",
+        "sovereignty_contribution": "Testbeitrag",
+        "controls": [
+          {
+            "id": "SML 1.CO 1.C 1 (Initial)",
+            "desc": "Test-Control 1.1 des ClamAV-Testmanifests.",
+            "control_scope": "underlying-service",
+            "service_type": "all",
+            "question": "Ist der nachfolgende Teststring bekannt? X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+            "requirements": {
+              "initial": true,
+              "managed": true,
+              "advanced": false,
+              "future_proof": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "SML 2 Operational Independence": {
+    "dimension_title": "Operational Independence",
+    "dimension_desc": "Testdimension 2 des ClamAV-Testmanifests.",
+    "objectives": [
+      {
+        "id": "SML 2.CO 1",
+        "title": "Objective 2 (SML 2.CO 1) - Testziel des ClamAV-Testmanifests",
+        "sovereignty_contribution": "Testbeitrag",
+        "controls": [
+          {
+            "id": "SML 2.CO 1.C 1 (Initial)",
+            "desc": "Test-Control 2.1 des ClamAV-Testmanifests.",
+            "control_scope": "underlying-service",
+            "service_type": "all",
+            "question": "Ist der nachfolgende Teststring bekannt? X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+            "requirements": {
+              "initial": true,
+              "managed": true,
+              "advanced": false,
+              "future_proof": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "SML 3 Data Sovereignty": {
+    "dimension_title": "Data Sovereignty",
+    "dimension_desc": "Testdimension 3 des ClamAV-Testmanifests.",
+    "objectives": [
+      {
+        "id": "SML 3.CO 1",
+        "title": "Objective 3 (SML 3.CO 1) - Testziel des ClamAV-Testmanifests",
+        "sovereignty_contribution": "Testbeitrag",
+        "controls": [
+          {
+            "id": "SML 3.CO 1.C 1 (Initial)",
+            "desc": "Test-Control 3.1 des ClamAV-Testmanifests.",
+            "control_scope": "underlying-service",
+            "service_type": "all",
+            "question": "Ist der nachfolgende Teststring bekannt? X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+            "requirements": {
+              "initial": true,
+              "managed": true,
+              "advanced": false,
+              "future_proof": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "SML 4 Software Sovereignty": {
+    "dimension_title": "Software Sovereignty",
+    "dimension_desc": "Testdimension 4 des ClamAV-Testmanifests.",
+    "objectives": [
+      {
+        "id": "SML 4.CO 1",
+        "title": "Objective 4 (SML 4.CO 1) - Testziel des ClamAV-Testmanifests",
+        "sovereignty_contribution": "Testbeitrag",
+        "controls": [
+          {
+            "id": "SML 4.CO 1.C 1 (Initial)",
+            "desc": "Test-Control 4.1 des ClamAV-Testmanifests.",
+            "control_scope": "underlying-service",
+            "service_type": "all",
+            "question": "Ist der nachfolgende Teststring bekannt? X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+            "requirements": {
+              "initial": true,
+              "managed": true,
+              "advanced": false,
+              "future_proof": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "SML 5 Infrastructure Sovereignty": {
+    "dimension_title": "Infrastructure Sovereignty",
+    "dimension_desc": "Testdimension 5 des ClamAV-Testmanifests.",
+    "objectives": [
+      {
+        "id": "SML 5.CO 1",
+        "title": "Objective 5 (SML 5.CO 1) - Testziel des ClamAV-Testmanifests",
+        "sovereignty_contribution": "Testbeitrag",
+        "controls": [
+          {
+            "id": "SML 5.CO 1.C 1 (Initial)",
+            "desc": "Test-Control 5.1 des ClamAV-Testmanifests.",
+            "control_scope": "underlying-service",
+            "service_type": "all",
+            "question": "Ist der nachfolgende Teststring bekannt? X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+            "requirements": {
+              "initial": true,
+              "managed": true,
+              "advanced": false,
+              "future_proof": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "SML 6 Identity and Access Sovereignty": {
+    "dimension_title": "Identity and Access Sovereignty",
+    "dimension_desc": "Testdimension 6 des ClamAV-Testmanifests.",
+    "objectives": [
+      {
+        "id": "SML 6.CO 1",
+        "title": "Objective 6 (SML 6.CO 1) - Testziel des ClamAV-Testmanifests",
+        "sovereignty_contribution": "Testbeitrag",
+        "controls": [
+          {
+            "id": "SML 6.CO 1.C 1 (Initial)",
+            "desc": "Test-Control 6.1 des ClamAV-Testmanifests.",
+            "control_scope": "underlying-service",
+            "service_type": "all",
+            "question": "Ist der nachfolgende Teststring bekannt? X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+            "requirements": {
+              "initial": true,
+              "managed": true,
+              "advanced": false,
+              "future_proof": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "SML 7 Resilience and Continuity": {
+    "dimension_title": "Resilience and Continuity",
+    "dimension_desc": "Testdimension 7 des ClamAV-Testmanifests.",
+    "objectives": [
+      {
+        "id": "SML 7.CO 1",
+        "title": "Objective 7 (SML 7.CO 1) - Testziel des ClamAV-Testmanifests",
+        "sovereignty_contribution": "Testbeitrag",
+        "controls": [
+          {
+            "id": "SML 7.CO 1.C 1 (Initial)",
+            "desc": "Test-Control 7.1 des ClamAV-Testmanifests.",
+            "control_scope": "underlying-service",
+            "service_type": "all",
+            "question": "Ist der nachfolgende Teststring bekannt? X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+            "requirements": {
+              "initial": true,
+              "managed": true,
+              "advanced": false,
+              "future_proof": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "SML 8 Compliance and Auditability": {
+    "dimension_title": "Compliance and Auditability",
+    "dimension_desc": "Testdimension 8 des ClamAV-Testmanifests.",
+    "objectives": [
+      {
+        "id": "SML 8.CO 1",
+        "title": "Objective 8 (SML 8.CO 1) - Testziel des ClamAV-Testmanifests",
+        "sovereignty_contribution": "Testbeitrag",
+        "controls": [
+          {
+            "id": "SML 8.CO 1.C 1 (Initial)",
+            "desc": "Test-Control 8.1 des ClamAV-Testmanifests.",
+            "control_scope": "underlying-service",
+            "service_type": "all",
+            "question": "Ist der nachfolgende Teststring bekannt? X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+            "requirements": {
+              "initial": true,
+              "managed": true,
+              "advanced": false,
+              "future_proof": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "SML 9 Vendor and Ecosystem Independence": {
+    "dimension_title": "Vendor and Ecosystem Independence",
+    "dimension_desc": "Testdimension 9 des ClamAV-Testmanifests.",
+    "objectives": [
+      {
+        "id": "SML 9.CO 1",
+        "title": "Objective 9 (SML 9.CO 1) - Testziel des ClamAV-Testmanifests",
+        "sovereignty_contribution": "Testbeitrag",
+        "controls": [
+          {
+            "id": "SML 9.CO 1.C 1 (Initial)",
+            "desc": "Test-Control 9.1 des ClamAV-Testmanifests.",
+            "control_scope": "underlying-service",
+            "service_type": "all",
+            "question": "Ist der nachfolgende Teststring bekannt? X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+            "requirements": {
+              "initial": true,
+              "managed": true,
+              "advanced": false,
+              "future_proof": false
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
