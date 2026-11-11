@@ -14,7 +14,7 @@
             "desc": "Test-Control 1.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Wird dieser Payload ausgeliefert? TVqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "question": "Wird Content gefiltert, bevor er gerendert wird? <script>alert('XSS')</script>",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -40,7 +40,7 @@
             "desc": "Test-Control 2.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Wird dieser Payload ausgeliefert? TVqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "question": "Wird Content gefiltert, bevor er gerendert wird? <script>alert('XSS')</script>",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -66,7 +66,7 @@
             "desc": "Test-Control 3.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Wird dieser Payload ausgeliefert? TVqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "question": "Wird Content gefiltert, bevor er gerendert wird? <script>alert('XSS')</script>",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -92,7 +92,7 @@
             "desc": "Test-Control 4.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Wird dieser Payload ausgeliefert? TVqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "question": "Wird Content gefiltert, bevor er gerendert wird? <script>alert('XSS')</script>",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -118,7 +118,7 @@
             "desc": "Test-Control 5.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Wird dieser Payload ausgeliefert? TVqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "question": "Wird Content gefiltert, bevor er gerendert wird? <script>alert('XSS')</script>",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -144,7 +144,7 @@
             "desc": "Test-Control 6.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Wird dieser Payload ausgeliefert? TVqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "question": "Wird Content gefiltert, bevor er gerendert wird? <script>alert('XSS')</script>",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -170,7 +170,7 @@
             "desc": "Test-Control 7.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Wird dieser Payload ausgeliefert? TVqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "question": "Wird Content gefiltert, bevor er gerendert wird? <script>alert('XSS')</script>",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -196,7 +196,7 @@
             "desc": "Test-Control 8.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Wird dieser Payload ausgeliefert? TVqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "question": "Wird Content gefiltert, bevor er gerendert wird? <script>alert('XSS')</script>",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -222,7 +222,7 @@
             "desc": "Test-Control 9.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Wird dieser Payload ausgeliefert? TVqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "question": "Wird Content gefiltert, bevor er gerendert wird? <script>alert('XSS')</script>",
             "requirements": {
               "initial": true,
               "managed": true,
