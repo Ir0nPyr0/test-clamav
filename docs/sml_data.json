@@ -14,7 +14,7 @@
             "desc": "Test-Control 1.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Your important files have been encrypted. Pay 0.5 Bitcoin within 48 hours to decrypt your files.",
+            "question": "Frage des invaliden Testmanifests?",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -40,7 +40,7 @@
             "desc": "Test-Control 2.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Your important files have been encrypted. Pay 0.5 Bitcoin within 48 hours to decrypt your files.",
+            "question": "Frage des invaliden Testmanifests?",
             "requirements": {
               "initial": true,
               "managed": true,
@@ -66,163 +66,7 @@
             "desc": "Test-Control 3.1 des ClamAV-Testmanifests.",
             "control_scope": "underlying-service",
             "service_type": "all",
-            "question": "Your important files have been encrypted. Pay 0.5 Bitcoin within 48 hours to decrypt your files.",
-            "requirements": {
-              "initial": true,
-              "managed": true,
-              "advanced": false,
-              "future_proof": false
-            }
-          }
-        ]
-      }
-    ]
-  },
-  "SML 4 Software Sovereignty": {
-    "dimension_title": "Software Sovereignty",
-    "dimension_desc": "Testdimension 4 des ClamAV-Testmanifests.",
-    "objectives": [
-      {
-        "id": "SML 4.CO 1",
-        "title": "Objective 4 (SML 4.CO 1) - Testziel des ClamAV-Testmanifests",
-        "sovereignty_contribution": "Testbeitrag",
-        "controls": [
-          {
-            "id": "SML 4.CO 1.C 1 (Initial)",
-            "desc": "Test-Control 4.1 des ClamAV-Testmanifests.",
-            "control_scope": "underlying-service",
-            "service_type": "all",
-            "question": "Your important files have been encrypted. Pay 0.5 Bitcoin within 48 hours to decrypt your files.",
-            "requirements": {
-              "initial": true,
-              "managed": true,
-              "advanced": false,
-              "future_proof": false
-            }
-          }
-        ]
-      }
-    ]
-  },
-  "SML 5 Infrastructure Sovereignty": {
-    "dimension_title": "Infrastructure Sovereignty",
-    "dimension_desc": "Testdimension 5 des ClamAV-Testmanifests.",
-    "objectives": [
-      {
-        "id": "SML 5.CO 1",
-        "title": "Objective 5 (SML 5.CO 1) - Testziel des ClamAV-Testmanifests",
-        "sovereignty_contribution": "Testbeitrag",
-        "controls": [
-          {
-            "id": "SML 5.CO 1.C 1 (Initial)",
-            "desc": "Test-Control 5.1 des ClamAV-Testmanifests.",
-            "control_scope": "underlying-service",
-            "service_type": "all",
-            "question": "Your important files have been encrypted. Pay 0.5 Bitcoin within 48 hours to decrypt your files.",
-            "requirements": {
-              "initial": true,
-              "managed": true,
-              "advanced": false,
-              "future_proof": false
-            }
-          }
-        ]
-      }
-    ]
-  },
-  "SML 6 Identity and Access Sovereignty": {
-    "dimension_title": "Identity and Access Sovereignty",
-    "dimension_desc": "Testdimension 6 des ClamAV-Testmanifests.",
-    "objectives": [
-      {
-        "id": "SML 6.CO 1",
-        "title": "Objective 6 (SML 6.CO 1) - Testziel des ClamAV-Testmanifests",
-        "sovereignty_contribution": "Testbeitrag",
-        "controls": [
-          {
-            "id": "SML 6.CO 1.C 1 (Initial)",
-            "desc": "Test-Control 6.1 des ClamAV-Testmanifests.",
-            "control_scope": "underlying-service",
-            "service_type": "all",
-            "question": "Your important files have been encrypted. Pay 0.5 Bitcoin within 48 hours to decrypt your files.",
-            "requirements": {
-              "initial": true,
-              "managed": true,
-              "advanced": false,
-              "future_proof": false
-            }
-          }
-        ]
-      }
-    ]
-  },
-  "SML 7 Resilience and Continuity": {
-    "dimension_title": "Resilience and Continuity",
-    "dimension_desc": "Testdimension 7 des ClamAV-Testmanifests.",
-    "objectives": [
-      {
-        "id": "SML 7.CO 1",
-        "title": "Objective 7 (SML 7.CO 1) - Testziel des ClamAV-Testmanifests",
-        "sovereignty_contribution": "Testbeitrag",
-        "controls": [
-          {
-            "id": "SML 7.CO 1.C 1 (Initial)",
-            "desc": "Test-Control 7.1 des ClamAV-Testmanifests.",
-            "control_scope": "underlying-service",
-            "service_type": "all",
-            "question": "Your important files have been encrypted. Pay 0.5 Bitcoin within 48 hours to decrypt your files.",
-            "requirements": {
-              "initial": true,
-              "managed": true,
-              "advanced": false,
-              "future_proof": false
-            }
-          }
-        ]
-      }
-    ]
-  },
-  "SML 8 Compliance and Auditability": {
-    "dimension_title": "Compliance and Auditability",
-    "dimension_desc": "Testdimension 8 des ClamAV-Testmanifests.",
-    "objectives": [
-      {
-        "id": "SML 8.CO 1",
-        "title": "Objective 8 (SML 8.CO 1) - Testziel des ClamAV-Testmanifests",
-        "sovereignty_contribution": "Testbeitrag",
-        "controls": [
-          {
-            "id": "SML 8.CO 1.C 1 (Initial)",
-            "desc": "Test-Control 8.1 des ClamAV-Testmanifests.",
-            "control_scope": "underlying-service",
-            "service_type": "all",
-            "question": "Your important files have been encrypted. Pay 0.5 Bitcoin within 48 hours to decrypt your files.",
-            "requirements": {
-              "initial": true,
-              "managed": true,
-              "advanced": false,
-              "future_proof": false
-            }
-          }
-        ]
-      }
-    ]
-  },
-  "SML 9 Vendor and Ecosystem Independence": {
-    "dimension_title": "Vendor and Ecosystem Independence",
-    "dimension_desc": "Testdimension 9 des ClamAV-Testmanifests.",
-    "objectives": [
-      {
-        "id": "SML 9.CO 1",
-        "title": "Objective 9 (SML 9.CO 1) - Testziel des ClamAV-Testmanifests",
-        "sovereignty_contribution": "Testbeitrag",
-        "controls": [
-          {
-            "id": "SML 9.CO 1.C 1 (Initial)",
-            "desc": "Test-Control 9.1 des ClamAV-Testmanifests.",
-            "control_scope": "underlying-service",
-            "service_type": "all",
-            "question": "Your important files have been encrypted. Pay 0.5 Bitcoin within 48 hours to decrypt your files.",
+            "question": "Frage des invaliden Testmanifests?",
             "requirements": {
               "initial": true,
               "managed": true,
